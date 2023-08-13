@@ -34,17 +34,14 @@ class Solution {
     // define range 
         int si=0;
         int ei=n-1;
-        while(si<=ei){
-            int mid= (si+ei)/2;
-            if(arr[mid]==k){
-                return mid;
-            }
-            else if(arr[mid]>k){
-                ei=mid-1;
+        while(si<ei){
+            int mid=si+(ei-si)/2;
+          if(arr[mid]>=k){
+                ei=mid;
             }else{
                 si=mid+1;
             }
         }
-         return -1;
+       return  arr[si] == k ? si : -1;
     }
 }
