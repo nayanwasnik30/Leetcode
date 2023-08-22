@@ -1,10 +1,20 @@
 class Solution {
     public int arrangeCoins(int n) {
-        Stack<Integer>  stack = new Stack<>();
-        for(int i=1;i<=n;i++){
-            stack.push(i);
-            n=n-i;
+        long si=1;
+        long ei=n;
+        
+        while(si<=ei){
+            long mid=si+(ei-si)/2;
+            long sum=mid*(mid+1)/2;
+            if(sum==n){
+            return (int) mid;
+            }
+            else if(sum<n){
+                si=mid+1;
+            }else{
+                ei=mid-1;
+            }
         }
-        return stack.peek();
+        return (int)ei;
     }
 }
