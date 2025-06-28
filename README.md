@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nayanwasnik30/Leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/nayanwasnik30/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
