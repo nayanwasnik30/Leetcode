@@ -11,20 +11,17 @@ class Solution {
         if(target<0){
             return ;
         }
-        if(idx==arr.length){
-            if(target==0){
+        if(target==0){
             ans.add(new ArrayList<>(list));
-            }
-            return;
         }
         
-        list.add(arr[idx]);
-        helper(arr,target-arr[idx],idx+1,list);//yes
-        list.remove(list.size()-1);
-
-        if( list.size()>0 && list.get(list.size()-1)==arr[idx]){
-            return ;
+       for(int i=idx;i<arr.length;i++){
+        if(i>idx && arr[i]==arr[i-1]){
+            continue;
         }
-        helper(arr,target,idx+1,list);// no
+        list.add(arr[i]);
+        helper(arr,target-arr[i],i+1,list);
+        list.remove(list.size()-1);
+       }
     }
 }
