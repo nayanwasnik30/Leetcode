@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
