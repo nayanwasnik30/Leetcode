@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nayanwasnik30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
 | [0136-single-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0136-single-number) |
+| [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
