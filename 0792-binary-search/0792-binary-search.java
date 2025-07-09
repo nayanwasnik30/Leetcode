@@ -8,9 +8,9 @@ class Solution {
             if(arr[mid]==target){
                 return mid;
             }else if(arr[mid]<target){
-                left=left+1;
+                left=mid+1;
             }else{
-                right=right-1;
+                right=mid-1;
             }
         }
 
