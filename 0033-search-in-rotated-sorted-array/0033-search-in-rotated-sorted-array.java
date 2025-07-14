@@ -1,27 +1,40 @@
 class Solution {
-    public int search(int[] arr, int target) {
-       //define range 
-       int si=0;
-       int ei=arr.length-1;
+    public int pindex(int []arr){
+        int left=0;
+        int right=arr.length-1;
+        while(left<=right){
+            int mid =left+(right-left)/2;
+
+            if(arr[0]<=arr[mid]){
+                left=mid+1;
+            }else{
+                right=mid-1;
+            }
+        }
+        return left;
+    }
+    public int search(int[] nums, int target) {
+        int piviot=pindex(nums);
+        if(piviot==0){
+            return binary(nums,0,nums.length-1,target);
+        }
+        else if(target<nums[0]){
+            return binary(nums,piviot,nums.length-1,target);
+        }else{
+            return binary(nums,0,piviot-1,target);
+        }
+    }
+    public int binary(int []arr,int left,int right,int target){
         
-        while(si<=ei){
-            int mid = si+(ei-si)/2;
-            if(arr[mid]== target){
+        while(left<=right){
+            int mid=left+(right-left)/2;
+
+            if(arr[mid]==target){
                 return mid;
-            }
-            else if(arr[si]<=arr[mid]){
-                if(arr[si]<= target && arr[mid]>=target){
-                    ei=mid-1;
-                }else{
-                    si=mid+1;
-                }
-            }
-            else{
-                if(arr[mid]<= target && arr[ei]>=target ){
-                    si=mid+1;
-                }else{
-                    ei=mid-1;
-                }
+            }else if(arr[mid]<target){
+                left=mid+1;
+            }else{
+                right=mid-1;
             }
         }
         return -1;
