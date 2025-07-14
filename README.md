@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nayanwasnik30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
 | [0136-single-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0136-single-number) |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nayanwasnik30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -74,10 +77,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nayanwasnik30/Leetcode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/nayanwasnik30/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nayanwasnik30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nayanwasnik30/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nayanwasnik30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
