@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nayanwasnik30/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/nayanwasnik30/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nayanwasnik30/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/nayanwasnik30/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nayanwasnik30/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/nayanwasnik30/Leetcode/tree/master/0278-first-bad-version) |
