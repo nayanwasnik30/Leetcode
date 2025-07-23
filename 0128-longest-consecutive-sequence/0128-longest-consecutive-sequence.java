@@ -12,6 +12,9 @@ class Solution {
         }
         int max=0;
         for(int value:map.keySet()){
+            if(map.containsKey(value-1)==true){
+                map.put(value,false);
+            }
             if(map.get(value)==true){
                 int curr=1;
                 while(map.containsKey(value + 1)!=false){
