@@ -5,11 +5,11 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i],true);
         }
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i]-1)==true){
-                map.put(nums[i],false);
-            }
-        }
+        // for(int i=0;i<nums.length;i++){
+        //     if(map.containsKey(nums[i]-1)==true){
+        //         map.put(nums[i],false);
+        //     }
+        // }
         int max=0;
         for(int value:map.keySet()){
             if(map.containsKey(value-1)==true){
