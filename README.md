@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nayanwasnik30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nayanwasnik30/Leetcode/tree/master/0162-find-peak-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nayanwasnik30/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nayanwasnik30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nayanwasnik30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
