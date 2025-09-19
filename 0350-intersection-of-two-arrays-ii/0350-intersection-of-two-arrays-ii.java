@@ -1,22 +1,20 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-         HashMap<Integer,Integer> freq= new HashMap<>();
-
+        HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<nums1.length;i++){
-            freq.put(nums1[i],freq.getOrDefault(nums1[i],0)+1);
+            map.put(nums1[i],map.getOrDefault(nums1[i],0)+1);
         }
-        ArrayList<Integer> inter = new ArrayList<>();
-
+        ArrayList<Integer> arr= new ArrayList<>();
         for(int i=0;i<nums2.length;i++){
-            if(freq.containsKey(nums2[i])==true && freq.get(nums2[i])>0){
-                inter.add(nums2[i]);
-                freq.put(nums2[i],freq.getOrDefault(nums2[i],0)-1);
+            if(map.containsKey(nums2[i])==true && map.get(nums2[i])>0){
+                arr.add(nums2[i]);
+                map.put(nums2[i],map.getOrDefault(nums2[i],0)-1);
             }
         }
-        int [] arr= new int [inter.size()];
-        for(int i=0;i<inter.size();i++){
-            arr[i]=inter.get(i);
+        int arr1 []= new int [arr.size()];
+        for(int i=0;i<arr.size();i++){
+           arr1[i]=arr.get(i);
         }
-        return arr;
+        return arr1;
     }
 }
