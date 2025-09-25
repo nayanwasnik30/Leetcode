@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nayanwasnik30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nayanwasnik30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/nayanwasnik30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nayanwasnik30/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0136-single-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nayanwasnik30/Leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nayanwasnik30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nayanwasnik30/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
