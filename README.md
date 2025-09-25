@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nayanwasnik30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nayanwasnik30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/nayanwasnik30/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/nayanwasnik30/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/nayanwasnik30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0189-rotate-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/nayanwasnik30/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nayanwasnik30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/nayanwasnik30/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0268-missing-number) |
