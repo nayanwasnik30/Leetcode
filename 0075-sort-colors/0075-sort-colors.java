@@ -1,28 +1,25 @@
 class Solution {
-    public void sortColors(int[] nums) {
-    ArrayList<Integer> zeroR= new ArrayList<>();
-     ArrayList<Integer> oneW= new ArrayList<>();
-      ArrayList<Integer> twoB= new ArrayList<>();
-    for(int i=0;i<nums.length;i++){
-        if(nums[i]==0){
-            zeroR.add(nums[i]);
-        }else if(nums[i]==1){
-            oneW.add(nums[i]);
-        }else if(nums[i]==2){
-            twoB.add(nums[i]);
+    public void sortColors(int[] arr) {
+       for(int i=1;i<arr.length;i++){
+            for(int j=i;j>0;j--){
+                if(compare(arr,j-1,j)==true){
+                    swap(arr,j-1,j);
+                }else{
+                    break;
+                }
+            }
         }
+        
+    }public boolean compare(int[]arr ,int l,int r){
+        if(arr[l]>arr[r]) return true;
+        else if(arr[l]<arr[r]) return false;
+        else return false;
     }
-    ArrayList<Integer> list= new ArrayList<>();
-    for(int i=0;i<zeroR.size();i++){
-        list.add(zeroR.get(i));
-    }for(int i=0;i<oneW.size();i++){
-        list.add(oneW.get(i));
-    }for(int i=0;i<twoB.size();i++){
-        list.add(twoB.get(i));
-    }
-    for(int i=0;i<nums.length;i++){
-       nums[i]=list.get(i);
+    public void swap(int []arr,int l,int r){
+        int temp=arr[l];
+        arr[l]=arr[r];
+        arr[r]=temp;
+        return;
     }
 
-    }
 }
