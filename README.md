@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nayanwasnik30/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nayanwasnik30/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nayanwasnik30/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/nayanwasnik30/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nayanwasnik30/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nayanwasnik30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nayanwasnik30/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nayanwasnik30/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
