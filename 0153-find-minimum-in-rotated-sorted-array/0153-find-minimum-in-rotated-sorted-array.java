@@ -5,16 +5,15 @@ class Solution {
         if(nums[left]<=nums[right]){
             return nums[0];
         }
-        while(left<=right){
+         while(left<=right){
             int mid=left+(right-left)/2;
-
             if(nums[mid]>=nums[0]){
                 left=mid+1;
-            }
-            else{
+            }else{
                 right=mid-1;
             }
         }
+
         return nums[left];
     }
 }
