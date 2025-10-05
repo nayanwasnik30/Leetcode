@@ -3,15 +3,17 @@ class Solution {
         //stair case problem;
         int n=mat[0].length;
         int m=mat.length;
-        int left=0; //left pointer travel up to down(row++);
-        int right=n-1; //right pointer travel right to left (col--)
-        while(left<m && right>-1){
-            if(mat[left][right]==target){
+        int left=0;
+        int right=(n*m)-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            int l=mid/n; int r=mid%n;
+            if(mat[l][r]==target){
                 return true;
-            }else if(mat[left][right]<target){
-               left++;
+            }else if(mat[l][r]<target){
+                left=mid+1;
             }else{
-                right--;
+                right=mid-1;
             }
         }
         return false;
