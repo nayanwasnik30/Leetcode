@@ -1,22 +1,25 @@
 class Solution {
     public int triangleNumber(int[] nums) {
+        if(nums.length<3){
+            return 0;
+        }
         Arrays.sort(nums);
-        int count=0;
-        for(int i=nums.length-1;i>=2;i--){
+        int ans=0;
+        int n=nums.length;
+        for(int k=n-1;k>=2;k--){
             int left=0;
-            int right=i-1;
-
+            int right=k-1;
             while(left<right){
-                int sum=nums[left]+nums[right];
-                if(sum<=nums[i]){
-                   left++;
-                }else{
-                    count+=right-left;
+
+                if(nums[left]+nums[right]>nums[k]){
+                    ans+=(right-left);
                     right--;
+                }else{
+                    left++;
                 }
             }
         }
 
-        return count;
+        return ans;
     }
 }
