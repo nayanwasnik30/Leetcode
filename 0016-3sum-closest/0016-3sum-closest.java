@@ -2,12 +2,13 @@ class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int ans=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++){
-            int left=i+1;
-            int right=nums.length-1;
+        
+        for(int i=nums.length-1;i>=1;i--){
+            int left=0;
+            int right=i-1;
             while(left<right){
                 int sum=nums[i]+nums[left]+nums[right];
-                if(Math.abs(target-ans)>Math.abs(target-sum)){ //(2-1)>(2-4)// means your are not closet to the sum
+                if(Math.abs(target-sum)<Math.abs(target-ans)){
                     ans=sum;
                 }
                 else if(sum<target){
