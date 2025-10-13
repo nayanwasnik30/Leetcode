@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0454-4sum-ii) |
 | [0475-heaters](https://github.com/nayanwasnik30/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nayanwasnik30/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0454-4sum-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nayanwasnik30/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nayanwasnik30/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/nayanwasnik30/Leetcode/tree/master/0475-heaters) |
+| [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nayanwasnik30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nayanwasnik30/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nayanwasnik30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nayanwasnik30/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union Find
