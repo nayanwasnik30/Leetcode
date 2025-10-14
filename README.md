@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nayanwasnik30/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nayanwasnik30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/nayanwasnik30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nayanwasnik30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nayanwasnik30/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nayanwasnik30/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0189-rotate-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nayanwasnik30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nayanwasnik30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
