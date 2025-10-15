@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nayanwasnik30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nayanwasnik30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nayanwasnik30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/nayanwasnik30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0611-valid-triangle-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
