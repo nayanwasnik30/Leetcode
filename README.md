@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0454-4sum-ii) |
 | [0475-heaters](https://github.com/nayanwasnik30/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nayanwasnik30/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/nayanwasnik30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nayanwasnik30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nayanwasnik30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/nayanwasnik30/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -298,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nayanwasnik30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/nayanwasnik30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
