@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nayanwasnik30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/nayanwasnik30/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nayanwasnik30/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -184,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nayanwasnik30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/nayanwasnik30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
