@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nayanwasnik30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nayanwasnik30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1078-remove-outermost-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -330,4 +331,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nayanwasnik30/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nayanwasnik30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/nayanwasnik30/Leetcode/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
