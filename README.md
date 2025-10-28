@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nayanwasnik30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanwasnik30/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -335,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nayanwasnik30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/nayanwasnik30/Leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
