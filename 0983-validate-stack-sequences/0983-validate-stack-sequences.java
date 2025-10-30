@@ -7,7 +7,7 @@ class Solution {
             stack2.push(pop[i]);
         }
         int i=0;
-        while(i<push.length || !stack.isEmpty()){
+        while(i<push.length || stack.size()>0){
             if(stack.size()> 0 && stack2.size()>0 && stack.peek().equals(stack2.peek())){
                 System.out.print(stack.peek());
                 stack.pop();
