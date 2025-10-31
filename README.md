@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nayanwasnik30/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/nayanwasnik30/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/nayanwasnik30/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nayanwasnik30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nayanwasnik30/Leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/nayanwasnik30/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nayanwasnik30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nayanwasnik30/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nayanwasnik30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nayanwasnik30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/nayanwasnik30/Leetcode/tree/master/0983-validate-stack-sequences) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nayanwasnik30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
