@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/nayanwasnik30/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/nayanwasnik30/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/nayanwasnik30/Leetcode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nayanwasnik30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nayanwasnik30/Leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nayanwasnik30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/nayanwasnik30/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -351,4 +353,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nayanwasnik30/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nayanwasnik30/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
