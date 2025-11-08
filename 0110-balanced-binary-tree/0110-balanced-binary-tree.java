@@ -14,17 +14,32 @@
  * }
  */
 class Solution {
-   
-    public int height(TreeNode root){
-        if(root==null) return 0;
-        int left=height(root.left);
-        int right=height(root.right);
-        if(left==-1 || right==-1) return -1;
-        if(Math.abs(left-right)>1) return-1;
-        return Math.max(left,right)+1;
+    public static class pair{
+        int height;
+        boolean balance;
+        pair(int height, boolean balance){
+            this.height=height;
+            this.balance=balance;
+        }
     }
+    private pair dfs(TreeNode root){
+        if(root==null) return new pair(0,true);
+        pair left=dfs(root.left);
+        pair right=dfs(root.right);
+
+        if(left.balance==false || right.balance==false){
+            return new pair(0,false);
+        }
+
+        if(Math.abs(left.height-right.height)>1) 
+        return new pair(0,false);
+
+        return new pair(Math.max(left.height,right.height)+1,true);
+
+    }
+
     public boolean isBalanced(TreeNode root) {
-        int ans=height(root);
-        return (ans!=-1);
+        boolean bool=dfs(root).balance;
+        return bool;
     }
 }
