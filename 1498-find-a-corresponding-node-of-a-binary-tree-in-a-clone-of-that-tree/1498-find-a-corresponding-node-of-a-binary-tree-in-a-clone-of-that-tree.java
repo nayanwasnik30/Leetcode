@@ -8,7 +8,9 @@ class Solution {
         if(og==target) return cl ;
         TreeNode left=find(og.left,cl.left,target);
         if(left != null) return left;
-       
-        return find(og.right,cl.right,target);
+        TreeNode right=find(og.right,cl.right,target);
+        if(right != null) return right;
+
+        return null;
     }
 }
