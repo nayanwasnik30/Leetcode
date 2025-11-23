@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nayanwasnik30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nayanwasnik30/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nayanwasnik30/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nayanwasnik30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nayanwasnik30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nayanwasnik30/Leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -312,11 +314,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nayanwasnik30/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/nayanwasnik30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanwasnik30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/nayanwasnik30/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/nayanwasnik30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
